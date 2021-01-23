@@ -1,2 +1,2 @@
-# jan_cs1
+# jan_cs1_git
 January CS Internal Assessment
